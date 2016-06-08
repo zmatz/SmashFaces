@@ -1,0 +1,40 @@
+#startOverBtn {
+  display:none;
+}
+
+.btn-round {
+	display: block;
+	border-radius: 20px;
+	background: none;
+	border: 2px solid #FFF;
+	color: #FFF;
+}
+.input-group input {
+	text-align: center;
+	margin-left: 18%;
+	border-top-left-radius: 20px !important;
+	border-bottom-left-radius: 20px !important;
+	width: 50% !important;
+}
+
+.input-group-btn .btn {
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+.game-wrap {
+	display: block;
+	border-radius: 300px;
+	background: rgba(255, 255, 255, 0.6);
+	border: 3px #FFF solid;
+}
+
+.gameStatusAlert {
+	color: red;
+	
+}
+
+img {
+	margin: 20px;
+	width: 50%;
+	border-radius: 50%;
+}
